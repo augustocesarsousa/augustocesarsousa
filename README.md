@@ -9,7 +9,7 @@ Criei o software GR (Gerenciador de Rotinas) para a <a href="https://www.donpaco
 - Dashboard para acompanhamento de metas dos vendedores;
 - Pesquisa de produtos com detalhamento fiscal;
 
-### Tecnoligias que utilizo no momento
+### Tecnologias que utilizo no momento
 
 <div><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
