@@ -1,6 +1,6 @@
 ## Olá, eu sou Augusto Cesar! 🖖🏻
 
-Amante de tecnologia e cultura Pop em geral, formado em Ciências da Computação pela UNIP, atualmente estudando para se tornar um desenvolvedor Fullstack Java (Spring / React) pela <a href="https://devsuperior.com.br/" target="_blank">DevSuperior</a> e participando do Bootcamp Santander Fullstack Developer na <a href="https://web.dio.me/track/carrefour-web-developer" target="_blank">DIO</a>
+Amante de tecnologia e cultura Pop em geral, formado em Ciências da Computação pela UNIP, atualmente estudando para se tornar um desenvolvedor Java.
 
 Criei o software GR (Gerenciador de Rotinas) para a <a href="https://www.donpaco.com.br/" target="_blank">Lojas Don Paco</a> utlilizando a linguagem de programação Java , ele complementa tarefas não supridas pelo ERP principal da empresa, seus módulos principais são:
 
