@@ -1,8 +1,10 @@
 ## Olá, eu sou Augusto Cesar! 🖖🏻
 
-Amante de tecnologia e cultura Pop em geral, formado em Ciências da Computação pela UNIP, atualmente estudando para se tornar um desenvolvedor Java.
+Sou formado em Ciências da Computação pela UNIP, atualmente estudando para se tornar um desenvolvedor Java.
 
-Criei o software GR (Gerenciador de Rotinas) para a <a href="https://www.donpaco.com.br/" target="_blank">Lojas Don Paco</a> utlilizando a linguagem de programação Java , ele complementa tarefas não supridas pelo ERP principal da empresa, seus módulos principais são:
+Atualmente estou criando um projeto para gestão de rotinas administrativas para ONGs <a href="https://github.com/augustocesarsousa/gerenciador_de_rotinas" target="_blank">[link do projeto]</a>, esse projeto irá utilizar Java com SpringBoot no backend e Angular no frontend, nesse primeiro momento, ele irá contemplar rotinas financeiras como fluxo de caixa.
+
+Também criei o software GR (Gerenciador de Rotinas) para a Lojas Don Paco <a href="https://github.com/augustocesarsousa/gerenciador-rotinas" target="_blank">[link do projeto]</a> utilizando a linguagem de programação Java, ele complementa tarefas não supridas pelo ERP principal da empresa, seus módulos principais são:
 
 - Assistência técnica;
 - Controle e liberação de mercadorias;
@@ -42,11 +44,3 @@ Criei o software GR (Gerenciador de Rotinas) para a <a href="https://www.donpaco
   <a href="mailto:acs-03@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augustocsousa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
-
-##
-
-<div align="center">
-  <a href="https://github.com/augustocesarsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocesarsousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesarsousa&layout=compact&langs_count=7&theme=dark"/>
-</div>
